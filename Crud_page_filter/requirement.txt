@@ -1,0 +1,5 @@
+Python -- 3.9
+Django -- 3.2.9
+Bootstrap -- 5.13
+SQLite
+Django ORM
